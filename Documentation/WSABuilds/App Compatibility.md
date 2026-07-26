@@ -512,6 +512,7 @@ wsa://com.apple.android.music
 | Death Palette (Matsuro) | 4.3.0 | 11 | ✅ | 
 | Deus Ex GO | 2.1.111374 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Destiny Child | 2.8.6 | 11 | ⚠️ | Poor performance during battles
+| Dragon Ball Z: DOKKAN BATTLE | 6.4.0 | 13 | ✅ | Requires Google Apps to get past the Title Screen
 | Dwarf Balls | 3.5.2 | 11 | 🆖 | Requires GMS for Google Play login.
 | Endless Frontier - Idle RPG | 3.5.3 | 12 | ❌ | OpenGL ES 3.1 is unsupported
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
